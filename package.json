@@ -1,0 +1,18 @@
+{
+  "name": "math-expression",
+  "version": "1.0.1",
+  "description": "Evaluate Math Expressions safe and easily.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mathex",
+    "math",
+    "expression",
+    "safe",
+    "eval"
+  ],
+  "author": "y21",
+  "license": "MIT"
+}
